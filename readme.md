@@ -1,6 +1,6 @@
 ![cover](https://cotenfrontend.pl/img/cover.png)
 
-# Homepage
+# Homepage Rafała
 
 Simple toolkit for your static websites development.
 
